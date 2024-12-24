@@ -2,3 +2,18 @@
     background-color: rgb(233, 154, 154);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#first-even {
+    color: rgb(25, 0, 255);
+    font-size: 36px;
+}
+
+.odd.cool {
+    font-size: 24px;
+}
+
+#second-even {
+    background-color: rgb(154, 252, 167);
+    font-size: 24px;
+    font-weight: bold;
+}
