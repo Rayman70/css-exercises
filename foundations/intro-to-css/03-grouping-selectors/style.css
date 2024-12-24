@@ -1,0 +1,13 @@
+.background {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.background.accept {
+    background-color: rgb(0, 0, 0);
+    color: hsl(0, 0%, 100%);
+}
+
+.background.deny {
+    background-color: #FFFF00;
+}
